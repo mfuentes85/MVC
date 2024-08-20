@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\NetAcademy\\MVC\\NetTeamMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CF1003-E292-4FF2-9E02-4A6092905CE5}|NetTeamMVC\\NetTeamMVC.csproj|c:\\netacademy\\mvc\\netteammvc\\netteammvc\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4CF1003-E292-4FF2-9E02-4A6092905CE5}|NetTeamMVC\\NetTeamMVC.csproj|solutionrelative:netteammvc\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CF1003-E292-4FF2-9E02-4A6092905CE5}|NetTeamMVC\\NetTeamMVC.csproj|c:\\netacademy\\mvc\\netteammvc\\netteammvc\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CF1003-E292-4FF2-9E02-4A6092905CE5}|NetTeamMVC\\NetTeamMVC.csproj|solutionrelative:netteammvc\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CF1003-E292-4FF2-9E02-4A6092905CE5}|NetTeamMVC\\NetTeamMVC.csproj|c:\\netacademy\\mvc\\netteammvc\\netteammvc\\models\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CF1003-E292-4FF2-9E02-4A6092905CE5}|NetTeamMVC\\NetTeamMVC.csproj|solutionrelative:netteammvc\\models\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CF1003-E292-4FF2-9E02-4A6092905CE5}|NetTeamMVC\\NetTeamMVC.csproj|c:\\netacademy\\mvc\\netteammvc\\netteammvc\\views\\customer\\creation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4CF1003-E292-4FF2-9E02-4A6092905CE5}|NetTeamMVC\\NetTeamMVC.csproj|solutionrelative:netteammvc\\views\\customer\\creation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CF1003-E292-4FF2-9E02-4A6092905CE5}|NetTeamMVC\\NetTeamMVC.csproj|c:\\netacademy\\mvc\\netteammvc\\netteammvc\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4CF1003-E292-4FF2-9E02-4A6092905CE5}|NetTeamMVC\\NetTeamMVC.csproj|solutionrelative:netteammvc\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\NetAcademy\\MVC\\NetTeamMVC\\NetTeamMVC\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "NetTeamMVC\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\NetAcademy\\MVC\\NetTeamMVC\\NetTeamMVC\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "NetTeamMVC\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T06:07:10.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\NetAcademy\\MVC\\NetTeamMVC\\NetTeamMVC\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "NetTeamMVC\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\NetAcademy\\MVC\\NetTeamMVC\\NetTeamMVC\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "NetTeamMVC\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAIAwwBgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T06:14:15.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerModel.cs",
+              "DocumentMoniker": "C:\\NetAcademy\\MVC\\NetTeamMVC\\NetTeamMVC\\Models\\CustomerModel.cs",
+              "RelativeDocumentMoniker": "NetTeamMVC\\Models\\CustomerModel.cs",
+              "ToolTip": "C:\\NetAcademy\\MVC\\NetTeamMVC\\NetTeamMVC\\Models\\CustomerModel.cs",
+              "RelativeToolTip": "NetTeamMVC\\Models\\CustomerModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T06:01:45.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\NetAcademy\\MVC\\NetTeamMVC\\NetTeamMVC\\Views\\Customer\\Details.cshtml",
+              "RelativeDocumentMoniker": "NetTeamMVC\\Views\\Customer\\Details.cshtml",
+              "ToolTip": "C:\\NetAcademy\\MVC\\NetTeamMVC\\NetTeamMVC\\Views\\Customer\\Details.cshtml",
+              "RelativeToolTip": "NetTeamMVC\\Views\\Customer\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T21:02:56.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Creation.cshtml",
+              "DocumentMoniker": "C:\\NetAcademy\\MVC\\NetTeamMVC\\NetTeamMVC\\Views\\Customer\\Creation.cshtml",
+              "RelativeDocumentMoniker": "NetTeamMVC\\Views\\Customer\\Creation.cshtml",
+              "ToolTip": "C:\\NetAcademy\\MVC\\NetTeamMVC\\NetTeamMVC\\Views\\Customer\\Creation.cshtml",
+              "RelativeToolTip": "NetTeamMVC\\Views\\Customer\\Creation.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAwwBgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T05:22:39.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
